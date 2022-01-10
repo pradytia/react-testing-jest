@@ -1,0 +1,206 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TodoList component should render with filtered list 1`] = `
+<div>
+  <ul
+    style={
+      Object {
+        "margin": 0,
+        "padding": 0,
+        "width": 300,
+      }
+    }
+  >
+    <li
+      style={
+        Object {
+          "borderBottom": "1px solid #999",
+          "fontSize": 16,
+          "listStyleType": "none",
+          "padding": 10,
+          "width": "100%",
+        }
+      }
+    >
+      Buy apple
+    </li>
+    <li
+      style={
+        Object {
+          "borderBottom": "1px solid #999",
+          "fontSize": 16,
+          "listStyleType": "none",
+          "padding": 10,
+          "width": "100%",
+        }
+      }
+    >
+      Buy banana
+    </li>
+    <li
+      style={
+        Object {
+          "borderBottom": "1px solid #999",
+          "fontSize": 16,
+          "listStyleType": "none",
+          "padding": 10,
+          "width": "100%",
+        }
+      }
+    >
+      Do laundry
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`TodoList component should render with filtered list 2`] = `
+<div>
+  <ul
+    style={
+      Object {
+        "margin": 0,
+        "padding": 0,
+        "width": 300,
+      }
+    }
+  >
+    <li
+      style={
+        Object {
+          "borderBottom": "1px solid #999",
+          "fontSize": 16,
+          "listStyleType": "none",
+          "padding": 10,
+          "width": "100%",
+        }
+      }
+    >
+      Buy apple
+    </li>
+    <li
+      style={
+        Object {
+          "borderBottom": "1px solid #999",
+          "fontSize": 16,
+          "listStyleType": "none",
+          "padding": 10,
+          "width": "100%",
+        }
+      }
+    >
+      Buy banana
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`TodoList component should render with filtered list 3`] = `
+<div>
+  <ul
+    style={
+      Object {
+        "margin": 0,
+        "padding": 0,
+        "width": 300,
+      }
+    }
+  >
+    <li
+      style={
+        Object {
+          "borderBottom": "1px solid #999",
+          "fontSize": 16,
+          "listStyleType": "none",
+          "padding": 10,
+          "width": "100%",
+        }
+      }
+    >
+      Buy apple
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`TodoList component should render with list 1`] = `
+<div>
+  <ul
+    style={
+      Object {
+        "margin": 0,
+        "padding": 0,
+        "width": 300,
+      }
+    }
+  >
+    <li
+      style={
+        Object {
+          "borderBottom": "1px solid #999",
+          "fontSize": 16,
+          "listStyleType": "none",
+          "padding": 10,
+          "width": "100%",
+        }
+      }
+    >
+      Buy apple
+    </li>
+    <li
+      style={
+        Object {
+          "borderBottom": "1px solid #999",
+          "fontSize": 16,
+          "listStyleType": "none",
+          "padding": 10,
+          "width": "100%",
+        }
+      }
+    >
+      Buy banana
+    </li>
+    <li
+      style={
+        Object {
+          "borderBottom": "1px solid #999",
+          "fontSize": 16,
+          "listStyleType": "none",
+          "padding": 10,
+          "width": "100%",
+        }
+      }
+    >
+      Do laundry
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`TodoList component should render with no list 1`] = `
+<div>
+  <ul
+    style={
+      Object {
+        "margin": 0,
+        "padding": 0,
+        "width": 300,
+      }
+    }
+  >
+    <li
+      style={
+        Object {
+          "borderBottom": "1px solid #999",
+          "fontSize": 16,
+          "listStyleType": "none",
+          "padding": 10,
+          "width": "100%",
+        }
+      }
+    >
+      No list
+    </li>
+  </ul>
+</div>
+`;
